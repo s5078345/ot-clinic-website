@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s5078345.github.io/ot-clinic-website/sitemap.xml
